@@ -1,6 +1,6 @@
 # Circus-of-Plates---Game
 
-It is single player-game in which each clown carries two stacks of plates, and
+It is Multi player-game in which each clown carries two stacks of plates, and
 there are a set of colored plates queues that fall down and he tries to catch them,
 if he manage to collect three consecutive plates of the same color, then they are
 vanished and his score increases. You are free to put rules ending the game. 
